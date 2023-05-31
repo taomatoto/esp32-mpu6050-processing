@@ -10,3 +10,8 @@ step5.enjoy it
 :)*/
 
 ps:the sound resource has a single track(left/right), you can edit it or create new files in AU
+
+# Updating ...
+New airpods pro having the motion tractiong function, it will help me integrate this project into an airpods. 
+
+Now i'm working on the IMU access of headphones, check the ref: https://developer.apple.com/documentation/coremotion/cmheadphonemotionmanager 
